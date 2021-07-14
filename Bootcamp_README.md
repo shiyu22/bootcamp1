@@ -27,16 +27,16 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-milvus-bootcamp">About Milvus Bootcamp</a>
+      <a href="#mega-about-milvus-bootcamp">About Milvus Bootcamp</a>
     </li>
     <li>
-      <a href="#benchmark-tests">Benchmark Tests</a>
+      <a href="#mag-benchmark-tests">Benchmark Tests</a>
       <ul>
-        <li><a href="#1m-test">1 million benchmark testing</a></li>
-        <li><a href="#100m-test">100 million benchmark testing</a></li>
+        <li><a href="#dart-1-million-benchmark-testing">1 million benchmark testing</a></li>
+        <li><a href="#art-100-million-benchmark-testing">100 million benchmark testing</a></li>
       </ul>
     </li>
-    <li><a href="#solutions">Solutions</a></li>
+    <li><a href="#pencil-solutions">Solutions</a></li>
       <ul>
         <li><a href="#try-it">Have a try</a></li>
         <li><a href="#run-in-local">Run locally</a></li>
