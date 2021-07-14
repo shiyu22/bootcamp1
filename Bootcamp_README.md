@@ -49,12 +49,14 @@
 </details>
 
 <!-- ABOUT MILVUS Bootcamp -->
-## About Milvus Bootcamp
+## :fireworks: About Milvus Bootcamp
 Milvus Bootcamp is designed to expose users to both the simplicity and depth of [Milvus](https://milvus.io/) vector database. Discover how to run benchmark tests as well as build similarity search applications spanning chatbots, recommendation systems, reverse image search, molecular search, and much more.
 
 <!-- BENCHMARK TESTS-->
 
 ## Benchmark Tests
+The [benchmark directory](https://github.com/milvus-io/bootcamp/tree/master/benchmark_test) contains 1 million and 100 million vector benchmark tests that indicate how your system will react to differently sized datasets.
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
