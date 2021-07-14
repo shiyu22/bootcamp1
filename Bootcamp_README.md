@@ -44,7 +44,7 @@
         <li><a href="#try-it">Have a try</a></li>
       </ul>
     <li><a href="#collaborations">Collaborations</a></li>
-    <li><a href="#:fire:-Supports">Supports</a></li>
+    <li><a href="#fire-supports">Supports</a></li>
     <li><a href="#contributors">All contributors</a></li>
   </ol>
 </details>
