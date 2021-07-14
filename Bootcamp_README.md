@@ -44,7 +44,7 @@
         <li><a href="#try-it">Have a try</a></li>
       </ul>
     <li><a href="#collaborations">Collaborations</a></li>
-    <li><a href="#supports">Supports</a></li>
+    <li><a href="#:fire:-Supports">Supports</a></li>
     <li><a href="#contributors">All contributors</a></li>
   </ol>
 </details>
@@ -63,13 +63,17 @@ The [benchmark directory](https://github.com/milvus-io/bootcamp/tree/master/benc
 
  ### :art: 100 million benchmark testing
 
+<!--ALL SOLUTIONS-->
 ## :pencil: Solution
 
-### :clapper: Live demo
+### :clapper: [Live demo](https://zilliz.com/milvus-demos?isZilliz=true)
 
-### :fries: Have a Try
+### :fries: [Have a Try](https://zilliz.com/solutions)
 
 ### :icecream: Run locally
+
+<!--THE COLLABORATIONS-->
+
 
 ## :two_women_holding_hands: Collaborations
 
