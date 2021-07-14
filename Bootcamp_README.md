@@ -1,15 +1,3 @@
-[![Contributors][contributors-shield]][https://github.com/milvus-io/bootcamp/graphs/contributors]
-[![Forks][forks-shield]][https://github.com/milvus-io/bootcamp/network/members]
-
-[![Stargazers][stars-shield]][https://github.com/milvus-io/bootcamp/stargazers]
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-
-
-
-
 <p align="center">
   <a href="https://github.com/milvus-io/bootcamp">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
