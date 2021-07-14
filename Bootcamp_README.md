@@ -1,9 +1,11 @@
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+
 <p align="center">
   <a href="https://github.com/milvus-io/bootcamp">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo">
   </a>
-
-  <h3 align="center">Milvus Bootcamp</h3>
 
   <p align="center">
     The bootcamp for Milvus, including benchmarking, solutions, and application scenarios.
@@ -21,13 +23,13 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About Milvus Bootcamp</a>
+      <a href="#about-milvus-bootcamp">About Milvus Bootcamp</a>
     </li>
     <li>
-      <a href="#tests">Benchmark Test</a>
+      <a href="#benchmark-tests">Benchmark Tests</a>
       <ul>
-        <li><a href="#prerequisites">1 million benchmark testing</a></li>
-        <li><a href="#installation">100 million benchmark testing</a></li>
+        <li><a href="#1m-test">1 million benchmark testing</a></li>
+        <li><a href="#100m-test">100 million benchmark testing</a></li>
       </ul>
     </li>
     <li><a href="#solutions">Solutions</a></li>
@@ -36,8 +38,21 @@
         <li><a href="#live-demo">Live demo</a></li>
         <li><a href="#try-it">Have a try</a></li>
       </ul>
-    <li><a href="#collab">Collaborations</a></li>
+    <li><a href="#collaborations">Collaborations</a></li>
     <li><a href="#supports">Supports</a></li>
-    <li><a href="#contributosr">All contributors</a></li>
+    <li><a href="#contributors">All contributors</a></li>
   </ol>
 </details>
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/milvus-io/bootcamp/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/github_username/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/milvus-io/bootcamp/network/members
+[stars-shield]: https://img.shields.io/github/stars/github_username/repo.svg?style=for-the-badge
+[stars-url]: https://github.com/milvus-io/bootcamp/stargazers
+
