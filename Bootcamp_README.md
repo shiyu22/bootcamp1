@@ -3,6 +3,9 @@
 
 [![Stargazers][stars-shield]][https://github.com/milvus-io/bootcamp/stargazers]
 
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
 
 
 
