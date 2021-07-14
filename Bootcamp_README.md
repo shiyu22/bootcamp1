@@ -2,6 +2,9 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 
+<!-- PROJECT LOGO -->
+<br />
+
 <p align="center">
   <a href="https://github.com/milvus-io/bootcamp">
     <img src="images/logo.png" alt="Logo">
@@ -19,6 +22,7 @@
   </p>
 
 
+<!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
@@ -44,8 +48,13 @@
   </ol>
 </details>
 
+<!-- ABOUT MILVUS Bootcamp -->
+## About Milvus Bootcamp
+Milvus Bootcamp is designed to expose users to both the simplicity and depth of [Milvus](https://milvus.io/) vector database. Discover how to run benchmark tests as well as build similarity search applications spanning chatbots, recommendation systems, reverse image search, molecular search, and much more.
 
+<!-- BENCHMARK TESTS-->
 
+## Benchmark Tests
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
