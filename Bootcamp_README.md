@@ -38,10 +38,9 @@
     </li>
     <li><a href="#pencil-solutions">Solutions</a></li>
       <ul>
-        <li><a href="#try-it">Have a try</a></li>
-        <li><a href="#run-in-local">Run locally</a></li>
-        <li><a href="#live-demo">Live demo</a></li>
-        <li><a href="#try-it">Have a try</a></li>
+        <li><a href="#clapper-live-demo">Live demo</a></li>
+        <li><a href="#fries-try-it">Have a try</a></li>
+        <li><a href="#icecream-run-in-local">Run locally</a></li>
       </ul>
     <li><a href="#collaborations">Collaborations</a></li>
     <li><a href="#fire-supports">Supports</a></li>
