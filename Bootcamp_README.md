@@ -80,8 +80,8 @@ We extract 100 million vector data from [SIFT1B Dataset](http://corpus-texmex.ir
 
 ### :icecream: Run locally
 
-| Solutions<img width=10/> | Have fun with it                                             | Article                                                      | Video                                                  |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------ |
+| Solutions| Have fun with it<img width=500/>                           | Article                                                      | Video                                                  |
+| ------------------------------------------------------------ | :----------------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------ |
 | [Reverse Image Search](./solutions/reverse_image_search)<br />Build a reverse image search system using Milvus paired with YOLOv3 for object detection and ResNet-50 for feature extraction. | [Jupyter notebook](solutions/reverse_image_search/reverse_image_search.ipynb)<br />[Quick deploy](solutions/reverse_image_search/quick_deploy) | [Chinese](https://mp.weixin.qq.com/s/7lNuaI-eL3lsQlOq0eolkw)<br />[English](https://blog.milvus.io/milvus-application-1-building-a-reverse-image-search-system-based-on-milvus-and-vgg-aed4788dd1ea) | [Chinese](https://www.bilibili.com/video/BV1SN411o79n) |
 | [Question Answering System](./solutions/question_answering_system)<br />Build an intelligent chatbot using Milvus and the BERT model for natural language processing (NLP). | [Jupyter notebook](solutions/question_answering_system/question_answering.ipynb)<br />[Quick deploy](solutions/question_answering_system/quick_deploy) | [Chinese](https://mp.weixin.qq.com/s/BZp4CMv2yuVb0oEyuDKNkw)<br />[English](https://medium.com/voice-tech-podcast/building-an-intelligent-qa-system-with-nlp-and-milvus-75b496702490) |                                                        |
 | [Recommendation System](./solutions/recommendation_system)   | [Jupyter notebook](solutions/recommendation_system/recommendation_system.ipynb)<br />[Quick deploy](solutions/recommendation_system/quick_deploy) | [Chinese](https://mp.weixin.qq.com/s/nAr45u-ruvhWQ8LcVxbhOg) |                                                        |
@@ -91,6 +91,16 @@ We extract 100 million vector data from [SIFT1B Dataset](http://corpus-texmex.ir
 | [Text Search Engine](./solutions/text_search_engine)         | [Jupyter notebook](solutions/text_search_engine/text_search_engine.ipynb)<br />[Quick deploy](solutions/text_search_engine/quick_deploy) | [Chinese](https://mp.weixin.qq.com/s/OUrBSCqnLuh9btyK3SxWgQ) | [Chinese](https://www.bilibili.com/video/BV1Xi4y1E7Tb) |
 
 
+Name&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Value
+-------|-------------------
+`Value-One` | Long explanation
+`Value-Two` | Long explanation
+`etc` | Long explanation
+
+
+|Name|Value|
+|----|---------|
+|<img width=1000/>|<img width=500/>|
 
 <!--THE COLLABORATIONS-->
 
