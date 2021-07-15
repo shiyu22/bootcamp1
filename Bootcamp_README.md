@@ -9,9 +9,8 @@
   <a href="https://github.com/milvus-io/bootcamp">
     <img src="images/logo.png" alt="Logo">
   </a>
-
   <p align="center">
-    The bootcamp for Milvus, including benchmarking, solutions, and application scenarios.
+    Bootcamp for Milvus, including benchmarking, solutions, and application scenarios.
     <br />
     <br />
     <a href="https://github.com/milvus-io/bootcamp "Demo</a>
@@ -20,6 +19,7 @@
     ·
     <a href="https://github.com/milvus-io/bootcamp/issues">Request Feature</a>
   </p>
+
 
 
 <!-- TABLE OF CONTENTS -->
@@ -52,31 +52,45 @@
 <!-- ABOUT MILVUS Bootcamp -->
 
 ## :mega: About Milvus Bootcamp
-Milvus Bootcamp is designed to expose users to both the simplicity and depth of [Milvus](https://milvus.io/) vector database. Discover how to run benchmark tests as well as build similarity search applications spanning chatbots, recommendation systems, reverse image search, molecular search, and much more.
+Milvus Bootcamp is designed to expose users to both the simplicity and depth of [**Milvus**](https://milvus.io/) vector database. Discover how to run **benchmark tests** as well as build similarity search applications spanning **chatbots**, **recommendation systems**, **reverse image search**, **molecular search**, **video search**, **audio saerch**, and much more.
 
 <!-- BENCHMARK TESTS-->
 
 ## :mag: Benchmark Tests
-The [benchmark directory](https://github.com/milvus-io/bootcamp/tree/master/benchmark_test) contains 1 million and 100 million vector benchmark tests that indicate how your system will react to differently sized datasets.
- ### :dart: 1 million benchmark testing
+The [Benchmark Test](https://github.com/milvus-io/bootcamp/tree/master/benchmark_test) contains 1 million and 100 million vector tests that indicate how your system will react to differently sized datasets.
+ ### :dart: [1 million benchmark testing](https://github.com/milvus-io/bootcamp/blob/master/benchmark_test/lab1_sift1b_1m.md)
 
- ### :art: 100 million benchmark testing
+We extract one million vector data from [SIFT1B Dataset](http://corpus-texmex.irisa.fr/) for **accuracy test** and **performance test**. Through [this test](https://github.com/milvus-io/bootcamp/blob/master/benchmark_test/lab1_sift1b_1m.md), you can learn the basic operations of Milvus, including creating collection, inserting data, building indexes, searching, etc.
+
+ ### :art: [100 million benchmark testing](https://github.com/milvus-io/bootcamp/blob/master/benchmark_test/lab2_sift1b_100m.md)
+
+We extract 100 million vector data from [SIFT1B Dataset](http://corpus-texmex.irisa.fr/) for **accuracy test** and **performance test**. Through [this test](https://github.com/milvus-io/bootcamp/blob/master/benchmark_test/lab2_sift1b_100m.md), you can learn the basic operations of Milvus, including creating collection, inserting data, building indexes, searching, etc.
 
 <!--ALL SOLUTIONS-->
+
 ## :pencil: Solution
 
-### :clapper: [Live demo](https://zilliz.com/milvus-demos?isZilliz=true)
+### :clapper: Live demo
 
-### :fries: [Have a Try](https://zilliz.com/solutions)
+[Live demo](https://zilliz.com/milvus-demos?isZilliz=true)
+
+### :fries: Have a Try
+
+ [Have a Try](https://zilliz.com/solutions)
 
 ### :icecream: Run locally
 
-<!--THE COLLABORATIONS-->
 
+
+<!--THE COLLABORATIONS-->
 
 ## :two_women_holding_hands: Collaborations
 
+
+
 ## :fire: Supports
+
+
 
 ## :heart: All contributors
 
