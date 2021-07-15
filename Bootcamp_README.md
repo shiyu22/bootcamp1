@@ -70,15 +70,26 @@ We extract 100 million vector data from [SIFT1B Dataset](http://corpus-texmex.ir
 
 ## :pencil: Solution
 
-### :clapper: Live demo
+### :clapper: [Live demo](https://zilliz.com/milvus-demos?isZilliz=true)
 
 [Live demo](https://zilliz.com/milvus-demos?isZilliz=true)
 
-### :fries: Have a Try
+### :fries: [Have a Try](https://zilliz.com/solutions)
 
  [Have a Try](https://zilliz.com/solutions)
 
 ### :icecream: Run locally
+
+|                                                              | Have fun with it                                             | Article                                                      | Video                                                   |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------- |
+| [Reverse Image Search](./solutions/reverse_image_search)<br /> | [reverse_image_search.ipynb](solutions/reverse_image_search/reverse_image_search.ipynb)<br />[Try with Docker](solutions/reverse_image_search/quick_deploy) | [Milvus 与 BERT 搭建文本搜索](https://mp.weixin.qq.com/s/OUrBSCqnLuh9btyK3SxWgQ) | [以图搜图](https://www.bilibili.com/video/BV1SN411o79n) |
+| [Question Answering System](./solutions/question_answering_system)<br /> | [question_answering.ipynb](solutions/question_answering_system/question_answering.ipynb)<br />[Try with Docker](solutions/question_answering_system/quick_deploy) |                                                              |                                                         |
+| [Recommendation System](./solutions/recommendation_system)   | [recommendation_system.ipynb](solutions/recommendation_system/recommendation_system.ipynb) |                                                              |                                                         |
+| [Molecular Similarity Search](./solutions/molecular_similarity_search) | [molecular_search.ipynb](solutions/molecular_similarity_search/molecular_search.ipynb) |                                                              |                                                         |
+| [Video Similarity Search](./solutions/video_similarity_search) | [video_similarity_search.ipynb](solutions/video_similarity_search/video_similarity_search.ipynb) |                                                              |                                                         |
+| [Audio Similarity Search](./solutions/audio_similarity_search) | [audio_similarity_search.ipynb](solutions/audio_similarity_search/audio_similarity_search.ipynb) |                                                              |                                                         |
+| [Text Search Engine](./solutions/text_search_engine)         | [text_search_engine.ipynb](solutions/text_search_engine/text_search_engine.ipynb) |                                                              |                                                         |
+| <img width=200/>                                             |                                                              |                                                              |                                                         |
 
 
 
