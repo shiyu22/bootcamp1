@@ -43,6 +43,9 @@
         <li><a href="#icecream-run-in-local">Run locally</a></li>
       </ul>
     <li><a href="#collaborations">Collaborations</a></li>
+      <ul>
+        <li><a href="#milvus-and-onnx">Milvus_and_ONNX</a></li>
+      </ul>
     <li><a href="#fire-supports">Supports</a></li>
     <li><a href="#contributors">All contributors</a></li>
   </ol>
@@ -96,13 +99,13 @@ We extract 100 million vector data from [SIFT1B Dataset](http://corpus-texmex.ir
 
 ## :two_women_holding_hands: Collaborations
 
+- ### [Milvus_and_ONNX](etc/onnx_and_milvus)
 
+  Build a reverse image search system with Milvus using various AI models in collaboration with the Open Neural Network Exchange (ONNX).
 
 ## :fire: Supports
 
-
-
-## :heart: All contributors
+Join the Milvus community on [Slack](https://join.slack.com/t/milvusio/shared_invite/zt-e0u4qu3k-bI2GDNys3ZqX1YCJ9OM~GQ) to share your suggestions, advice, and questions with our engineering team. Also, you can join our [WeChat group](https://github.com/milvus-io/milvus/discussions/4156).
 
 
 
