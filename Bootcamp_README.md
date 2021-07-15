@@ -42,7 +42,7 @@
         <li><a href="#fries-try-it">Have a try</a></li>
         <li><a href="#icecream-run-in-local">Run locally</a></li>
       </ul>
-    <li><a href="#collaborations">Collaborations</a></li>
+    <li><a href="#two-women-holding-hands-collaborations">Collaborations</a></li>
       <ul>
         <li><a href="#milvus-and-onnx">Milvus_and_ONNX</a></li>
       </ul>
